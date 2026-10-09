@@ -1,0 +1,9 @@
+{
+  "name": "LibrasFrequência - Gestão & Ensino de Libras",
+  "description": "Sistema de controle de frequência, diário de classe, submissão de atividades em vídeo, módulos de estudo e glossário terminológico para o ensino de Libras.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
